@@ -3,11 +3,11 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-    production: false,
-    aadClientId: '9d69250c-bf06-4ebc-91fa-9a3ed83461d1',
-    aadTenantId: '91fc072c-edef-4f97-bdc5-cfb67718ae3a',
-    customApi: 'http://localhost:5000/api/friends',
-  };
+  production: false,
+  aadClientId: '91fc072c-edef-4f97-bdc5-cfb67718ae3a',
+  aadTenantId: '91fc072c-edef-4f97-bdc5-cfb67718ae3a',
+  customApi: 'http://localhost:5000/api/friends',
+};
 /*
  * For easier debugging in development mode, you can import the following file
  * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
